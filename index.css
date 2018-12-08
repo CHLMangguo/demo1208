@@ -1,0 +1,48 @@
+body,html{
+	margin: 0;
+	padding: 0;
+}
+a{
+	cursor: pointer;
+}
+#con{
+	width: 90%;
+	margin: auto;
+	min-width: 1226px;
+	height: 434px;
+	background-color: ;
+	margin-top: 100px;
+
+}
+#contain{
+	
+	
+	float: left;
+	background-color: ;
+	position: relative;
+	transition: all .5s;
+	overflow: hidden;
+
+
+}
+#contain a{
+	position: relative;
+	height: 434px;
+	width: 854px;
+	display: block;
+	
+	float: left;
+}
+#contain img{
+	transition: all .5s;
+}
+#contain img:hover{
+	transform: scale(1.03);
+}
+#text{
+	width: 372px;
+	height: 434px;
+	background-color: blue;
+	float: left;
+
+}
